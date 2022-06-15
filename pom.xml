@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.revoltcode</groupId>
 	<artifactId>zubank_gateway</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>zubank_gateway</name>
 	<description>A cloud gateway for my ZuBank application</description>
 	<properties>
